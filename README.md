@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Ghost_Busters
-=======
-# DISCLAIMER:
-
 > As of August 2018, IBM will not be contributing new features to Hyperledger Composer and will only be maintaining it through Fabric 2.x releases.  IBM recommends using Hyperledger Composer solely for demos and proof-of-concepts. IBM does not provide support for networks using Hyperledger Composer in production (this includes the CLI, JavaScript APIs, REST server, and Web Playground).
 
 > This pattern has been upgraded to Fabric V2.0
@@ -334,4 +329,3 @@ Congratulations - you have completed Step 1 of this Composite Journey - move ont
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
->>>>>>> 1309ad65e62698c3f2ff57f3fe057ed0cf391f4f
